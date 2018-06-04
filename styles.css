@@ -2,7 +2,7 @@
 body{
 	margin: 0;
 	font-family: Helvetica;		
-	background-color: #d4f3fc;
+	background-color: #efc9ff;
 	background-image: url("sunset pic.jpg"); 
 	background-repeat: no-repeat;
 	background-size: 100%;
@@ -77,5 +77,38 @@ nav a:hover::before{
 
 }
 
+#bodytext{
+	background-color: #ffd1df;
+	padding: 10px;
+	position: relative;
+	text-align: center;
+	margin-right: 50%;
+	margin-left: 10px;
+}
 
+#heading{
+	margin-left: 150px;
+}
+
+#theader{
+	font-weight: bold;
+
+}
+
+#ptable{
+	border: 8px solid purple;
+	background-color: #ffd1df;
+}
+
+#contact{
+	border: 8px solid purple;
+
+}
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
 
