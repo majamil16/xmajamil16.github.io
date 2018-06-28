@@ -116,7 +116,7 @@ header{
 header .header-brand{
 	font-family: Lato;
 	font-size: 24px;
-	font-weight: 900;
+/*	font-weight: 900; */
 	color: #111;
 	text-transform: uppercase;
 	display: block;
@@ -200,7 +200,7 @@ header .header-cases{
 	font-size: 60px;
 	color: #fff;
 	text-align: center;
-	font-weight: 900;
+/*	font-weight: 900; */
 	line-height: 70px;
 	text-shadow: 2px 2px 8px #111;
 
@@ -209,11 +209,11 @@ header .header-cases{
 	font-family: Arima Madurai;
 	font-size: 28px;
 	font-style: italic;
-	font-weight: thin;
+/*	font-weight: thin; */
 	line-height: 40px;
 	color: #fff;
 	text-align: center;
-	font-weight: 100;
+/*	font-weight: 100; */
 	text-shadow: 2px 2px 8px #111;
 
 }
@@ -230,11 +230,11 @@ header .header-cases{
 	text-transform: uppercase;
 	line-height: 100px;
 	font-size: 28px;
-	font-weight: 600;
+/*	font-weight: 600; */
 	line-height: 100px;
 	color: #111; 
 	text-align: center;
-	font-weight: 100;
+/*	font-weight: 100; */
 }
 @media only screen and (min-width: 1000px){ 
 	.wrapper{
