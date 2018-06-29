@@ -196,6 +196,14 @@ header .header-cases{
 	background-size: cover;
 	display: table;
 }
+.index-banner p{
+	text-align: center;
+	font-family: Arima Madurai;
+	font-size: 26px;
+	padding-top: 30px;
+	color: #fff;
+	text-shadow: 2px 2px 8px #111;
+}
 
 .vertical-center{
 	display: table-cell;
