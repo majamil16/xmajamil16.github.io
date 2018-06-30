@@ -1,10 +1,10 @@
 <?php
 
-if(isset($_POST["submit"])) {
-	$name = $_POST["name"];
-	$subject = $_POST["subject"];
-	$mailFrom = $_POST["mail"];
-	$message = $_POST["message"];
+if(isset($_GET["submit"])) {
+	$name = $_GET["name"];
+	$subject = $_GET["subject"];
+	$mailFrom = $_GET["mail"];
+	$message = $_GET["message"];
 
 
 	$mailTo = "majam1616@gmail.com";
